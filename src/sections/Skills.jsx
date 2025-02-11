@@ -11,6 +11,7 @@ import postman from "../assets/postman.svg";
 import flutter from "../assets/flutter.svg";
 import github from "../assets/github.svg";
 import bulb from "../assets/bulb.png";
+import azure from '../assets/azure.svg'
 
 function Skills() {
     useEffect(() => {
@@ -46,7 +47,7 @@ function Skills() {
                             <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS icon" className='size-24 m-2 transition-transform duration-300 transform hover:scale-110' />
                             <img src={tf} alt="TensorFlow icon" className='size-20 m-2 transition-transform duration-300 transform hover:scale-110' />
                             <img src={postman} alt="Postman icon" className='size-20 m-2 transition-transform duration-300 transform hover:scale-110' />
-                            <img src={flutter} alt="Flutter icon" className='size-16 m-2 transition-transform duration-300 transform hover:scale-110' />
+                            <img src={azure} alt="Flutter icon" className='size-16 m-2 transition-transform duration-300 transform hover:scale-110' />
                             <img src='https://skillicons.dev/icons?i=opencv' alt="OpenCV icon" className='size-16 m-2 transition-transform duration-300 transform hover:scale-110' />
                         </div>
                     </div>

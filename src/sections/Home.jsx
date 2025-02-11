@@ -137,9 +137,9 @@ const Home = () => {
               </a>
             </div> */}
             {/* Uncomment to add Download CV Button */}
-            {/* <a href="/path-to-your-cv.pdf" className="mt-8 inline-block px-8 py-3 text-lg bg-cyan-400 text-gray-900 font-semibold rounded-lg hover:bg-cyan-500">
+            <a href="https://drive.google.com/file/d/1i-2ttSrwUN67MnKragR3rPI57_F1YAnE/view?usp=sharing" className="mt-8 inline-block px-7  text-lg bg-cyan-400 text-gray-900 font-semibold rounded-lg hover:bg-cyan-500">
               Download CV
-            </a> */}
+            </a>
           </div>
           <div className="w-full md:w-1/2 flex justify-center relative">
             <div className="relative w-72 h-72 flex items-center justify-center" data-aos="zoom-in">
@@ -147,7 +147,7 @@ const Home = () => {
 
               <div className="relative rounded-lg overflow-hidden w-72 h-72">
                 <img
-                  src="/path-to-your-image.jpg"
+                  src="img.jpg"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
