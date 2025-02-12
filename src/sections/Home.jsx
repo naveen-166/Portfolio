@@ -137,7 +137,7 @@ const Home = () => {
               </a>
             </div> */}
             {/* Uncomment to add Download CV Button */}
-            <a href="https://drive.google.com/file/d/19UUfp4BiLy0PU5UDbT1ly4rbCS1aMU8h/view?usp=sharing" className="mt-8 inline-block px-7  text-lg bg-cyan-400 text-gray-900 font-semibold rounded-lg hover:bg-cyan-500">
+            <a href="https://drive.google.com/file/d/1Jvp5DPolm0LeB3L0EQ4Wq0vi29dcPfYK/view?usp=sharing" className="mt-8 inline-block px-7  text-lg bg-cyan-400 text-gray-900 font-semibold rounded-lg hover:bg-cyan-500">
               Download CV
             </a>
           </div>
